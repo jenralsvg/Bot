@@ -14,8 +14,8 @@ const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
 const BotName = 'Jenral Svg☄'; 
-const instagram = '--'; 
-const telegram = '--'; 
+const instagram = 'instagram'; 
+const telegram = 'telegram'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g';
 //const grupch1 = 'belum ada grup'; 
