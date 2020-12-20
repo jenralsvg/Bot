@@ -51,7 +51,7 @@ ket : ✅ : aktif
 
 
 ## THANKS TO
-* [`termux-whatsapp-bot`](https://github.com/fdciabdul/termux-whatsapp-bot)
+* [`termux-whatsapp-bot`](https://github.com/jenralsvg/termux-whatsapp-bot)
 
 ## DONASI
-* Gopay : 081271699856 Reuz
+* SUBREK,LIKE & SHERE YT KilL4Life
