@@ -14,11 +14,11 @@ BOT WHATSAPP TERMUX ONLY BY KilL4Life
 ### Alat dan Bahan
 Siapin alat dan bahannya.
 ```bash
-✔︎   niat
-✔︎   2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-           ✔︎   jaringan internet kenceng,kuota+
-    ✔︎      penyimpanan yang memadai
- ✔︎      aplikasi whatsapp
+✔︎         niat
+✔︎     2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
+✔︎            jaringan internet kenceng,kuota+
+✔︎           penyimpanan yang memadai
+✔︎       aplikasi whatsapp
 ✔︎      aplikasi termux
 ```
 
