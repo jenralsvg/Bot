@@ -13,7 +13,9 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const A187 = 'JRL Svg☄';  
+const BotName = 'Jenral Svg☄'; 
+const instagram = 'instagram'; 
+const telegram = 'telegram'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
 const youtube = 'https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g';
 //const grupch1 = 'belum ada grup'; 
@@ -237,15 +239,15 @@ axios.get(`https://st4rz.herokuapp.com/api/tiktok?url=${tictoc}`).then((res) => 
 conn.sendMessage(id, titoe, MessageType.text);
 })
 }
-if (text.includes("!wiki")){
-const teks = text.replace(/!wiki /, "")
+if (text.includes("!wikia")){
+const teks = text.replace(/!wikia /, "")
 axios.get(`https://st4rz.herokuapp.com/api/wiki?q=${text}`).then((res) => {
     let hasil = `Menurut Wikipedia:\n\n${res.data.result}`;
     conn.sendMessage(id, hasil ,MessageType.text);
 })
 }
-if (text.includes("!jadwalsholat")){
-  const teks = text.replace(/!jadwalsholat /, "")
+if (text.includes("!sholat")){
+  const teks = text.replace(/!sholat /, "")
   axios.get(`https://mhankbarbar.herokuapp.com/api/jadwalshalat?daerah=${teks}&apiKey=zFuV88pxcIiCWuYlwg57`).then ((res) =>{
   let hasil = `Jadwal sholat di ${teks} hari ini adalah\n\n👉Imsyak : ${res.data.Imsyak}\n👉Subuh : ${res.data.Subuh} WIB\n👉Dzuhur : ${res.data.Dzuhur}WIB\n👉Ashar : ${res.data.Ashar} WIB\n👉Maghrib : ${res.data.Maghrib}\n👉Isya : ${res.data.Isya} WIB\n👉Tengah malam : ${res.data.Dhuha} WIB`;
   conn.sendMessage(id, hasil, MessageType.text);
