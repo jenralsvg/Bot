@@ -22,7 +22,6 @@ const youtube = 'https://youtube.com/channel/UCF-nPvtUosWxilJksQXJJ5g';
 //const grupch2 = 'belum ada grup' ; 
 const
 {
-   WAConnection,
    MessageType,
    Presence,
    MessageOptions,
