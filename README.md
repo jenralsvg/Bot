@@ -27,18 +27,18 @@ Script ini di modifikasi sama saya sendiri XP-TN
 ```bash
 > Support My Github😘
 > Jangan Lupa follow github saya🤗
-> jika error lapor ke Pembuat script chat wa link ada di github 
+> jika error lapor ke Pembuat script chat wa link ada di paling bawah
 ```
 ### Cara Installnya
-Script ini di modifikasi sama saya sendiri XP-TN.
+Script ini di modifikasi sama saya sendiri KilL4Life.
 ```bash
 kalo lu belum punya apk termux, download di playstore
 > masuk ke apk termux lalu ketik dibawah ini!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
 > apt update && apt upgrade
-> git clone https://github.com/XP-TN/XP-TNNBOT
-> cd XP-TNNBOT
+> git clone https://github.com/jenralsvg/Bot
+> cd Bot
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
 > Tinggal scan kode qr yeee...done
 ```
@@ -48,7 +48,7 @@ Siapin alat dan bahannya.
 > Download Nodejs
 > jika udah open laLU install script ini
 > jika udh semua kalian pindahkan ke localdisk c
-> jika udah ketik di nodejs nya cd C:\XP-TNNBOT-main
+> jika udah ketik di nodejs nya cd C:\Bot-main
 > npm i ytdl
 > npm i cwebp
 > npm i
@@ -103,7 +103,5 @@ Github ini dan support😅
 BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (XP-TN)
 
 ## Sosial Media Admin
-* [`Youtube Admin`](https://www.youtube.com/channel/UCMiQsqzWvj-zKxNlFlG_Wiw)
-* [`Instagram Admin`](https://instagram.com/mragung23)
-* [`WhatsApp Admin `](https://wa.me/+6289655478810)
+* [`WhatsApp Admin `](https://wa.me/+6285757196481)
 
