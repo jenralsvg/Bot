@@ -32,7 +32,7 @@ const
    ReconnectMode,
    ProxyAgent,
    waChatKey,
-} = require("@adiwajshing/baileys");
+} 
 var jam = moment().format("HH:mm");
 
 function foreach(arr, func)
