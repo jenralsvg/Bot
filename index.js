@@ -1717,7 +1717,3 @@ if (text.includes(".alay")){
 		conn.sendMessage(id, hasil, MessageType.text)
 	})
 }
-
-
-
-})
